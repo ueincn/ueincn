@@ -6,9 +6,10 @@ ___ _             _   _      _
 |___| |_| |_| |_|  \___/ \___|_|_| |_|\___|_| |_|
 ```
 
-永无止境 -「学习」    向往自由 -「生活」
+> 永无止境 -「学习」
+
+> 向往自由 -「生活」
 
 🍁 Links
-● Github：[https://github.com/ueincn](https://github.com/ueincn)
-
-● 语雀：[https://www.yuque.com/ueincn](https://www.yuque.com/ueincn)
+- Github：[https://github.com/ueincn](https://github.com/ueincn)
+- 语雀：[https://www.yuque.com/ueincn](https://www.yuque.com/ueincn)
